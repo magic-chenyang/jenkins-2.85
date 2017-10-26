@@ -1,0 +1,17 @@
+Ant Plugin:1.7
+Authentication Tokens API Plugin:1.3
+bouncycastle API Plugin:2.16.2
+Branch API Plugin:2.0.14
+Build Timeout:1.19
+Credentials Binding Plugin:1.13
+Credentials Plugin:2.1.16
+Display URL API:2.1.0
+Docker API Plugin:3.0.14
+Docker Commons Plugin:1.9
+Docker Pipeline:1.13
+Docker plugin:1.0.2
+Durable Task Plugin:1.15
+Email Extension Plugin:2.60
+Folders Plugin:6.1.2
+Docker Slaves Plugin:1.0.7
+Git client plugin:2.5.0
