@@ -15,3 +15,4 @@ Email Extension Plugin:2.60
 Folders Plugin:6.1.2
 Docker Slaves Plugin:1.0.7
 Git client plugin:2.5.0
+Node and Label parameter plugin
